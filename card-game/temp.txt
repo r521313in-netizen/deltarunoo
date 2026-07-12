@@ -1,0 +1,11 @@
+card-game/
+├── index.html
+├── style.css
+├── js/
+│   ├── deck.js
+│   ├── player.js
+│   ├── game.js
+│   └── ui.js
+└── assets/
+    ├── back.png
+    └── cards/
