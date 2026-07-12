@@ -2,7 +2,7 @@ const colors = [
     "red",
     "yellow",
     "green",
-    "blue"
+    "teal"
 ];
 
 const values = [
