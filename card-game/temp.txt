@@ -8,4 +8,4 @@ card-game/
 │   └── ui.js
 └── assets/
     ├── back.png
-    └── cards/
+    └── cards/ File:UNO cards deck.svg
